@@ -4,6 +4,8 @@ ADVERTÊNCIA: IRRADIAÇÃO DE MICRO-ONDAS NO CORPO HUMANO É PREJUDICIAL À SAÚ
 
 Ao realizar o descarregamentdo você concorda automaticamente com a licença BSD de 4 cláusulas (http://en.wikipedia.org/wiki/BSD_licenses#4-clause)
 
+Leia o Wiki do repositório antes de solicitar documentos. (https://github.com/morschfranco/u-0ndas/wiki)
+
 Repositório do software e diagramas esquemáticos do forno de pirólise por micro-ondas.
 O material aqui disponibilizado, destina-se a estudo e investigação científica da conversão de matéria orgânica a partir da pirólise rápida, realizada em forno de micro-ondas.
 
